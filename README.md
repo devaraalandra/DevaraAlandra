@@ -5,4 +5,6 @@
 ⚗️ Currently learning Tensorflow 2.0 Library + Keras API <br/>
 📫 You can reach me at:   `devaraandra@gmail.com` <br/>
 
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevaraAlandra&show_icons=true&locale=en&theme=tokyonight)
